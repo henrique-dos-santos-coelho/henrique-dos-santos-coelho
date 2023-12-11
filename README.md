@@ -3,7 +3,8 @@
 ## :boy: About me
 #### Hello, my name is Henrique, I currently work as a developer on the Service-Now platform, but I am a technology enthusiast and I am always looking to learn.
 
-### :computer: Interests :muscle:
+### Interests
+- GoLang
 - Javascript
 - HTML
 - CSS
